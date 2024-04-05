@@ -1,5 +1,5 @@
 HEAD:
-  mixed-port: 17891
+  mixed-port: 17892
   allow-lan: true
   mode: rule
   log-level: info
